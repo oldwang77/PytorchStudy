@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-# @file name  : 1.切分数据集.py
-# @author     : tingsongyu
-# @date       : 2019-09-07 10:08:00
-# @brief      : 将数据集划分为训练集，验证集，测试集
-"""
-
 import os
 import random
 import shutil
