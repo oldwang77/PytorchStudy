@@ -48,7 +48,7 @@ train_transform = transforms.Compose([
     # transforms.Pad(padding=(8, 16, 32, 64), fill=(255, 0, 0), padding_mode='constant'),
     # transforms.Pad(padding=(8, 16, 32, 64), fill=(255, 0, 0), padding_mode='symmetric'),
 
-    # 2 ColorJitter
+    # 2 ColorJitter 亮度调整
     # transforms.ColorJitter(brightness=0.5),
     # transforms.ColorJitter(contrast=0.5),
     # transforms.ColorJitter(saturation=0.5),
