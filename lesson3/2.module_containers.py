@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : 2.module_containers.py
-# @brief      : 模型容器——Sequential, ModuleList, ModuleDict
-"""
 import torch
 import torchvision
 import torch.nn as nn
